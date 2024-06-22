@@ -21,3 +21,7 @@ Found a starlark grammar in [this repo](https://github.com/bazelbuild/vscode-baz
 ## 2024-06-22 11:22
 
 Found starlark language configuration [here](https://github.com/bazelbuild/vscode-bazel/blob/master/syntaxes/starlark.configuration.json).
+
+## 2024-06-22 11:25
+
+I should probably reduce the scope of this/just make it syntax highlighting rather than getting into the full weeds of language support stuff. Don't think I need it. Plus I'm not sure exactly how to run starlark for tidbyt/would have to do a refresher.

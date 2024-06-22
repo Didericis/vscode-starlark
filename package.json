@@ -1,7 +1,7 @@
 {
   "name": "starlark",
-  "displayName": "starlark",
-  "description": "Language support for starlark",
+  "displayName": "Starlark",
+  "description": "Syntax highlighting for Starlark",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
@@ -9,10 +9,11 @@
   "categories": [
     "Programming Languages"
   ],
+  "icon": "media/bazel-logo.png",
   "contributes": {
     "languages": [{
       "id": "starlark",
-      "aliases": ["starlark", "starlark"],
+      "aliases": ["Starlark", "starlark"],
       "extensions": [".star"],
       "configuration": "./language-configuration.json"
     }],
