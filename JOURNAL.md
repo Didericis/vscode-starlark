@@ -17,3 +17,7 @@ This project started like [this lightbulb changing scene](https://www.youtube.co
 ## 2024-06-22 11:12
 
 Found a starlark grammar in [this repo](https://github.com/bazelbuild/vscode-bazel). That should allow me to do syntax highlighting. Specific location of the grammar was found [here](https://github.com/bazelbuild/vscode-bazel/blob/master/syntaxes/starlark.tmLanguage.json).
+
+## 2024-06-22 11:22
+
+Found starlark language configuration [here](https://github.com/bazelbuild/vscode-bazel/blob/master/syntaxes/starlark.configuration.json).
