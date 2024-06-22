@@ -15,7 +15,11 @@
       "id": "starlark",
       "aliases": ["Starlark", "starlark"],
       "extensions": [".star"],
-      "configuration": "./language-configuration.json"
+      "configuration": "./language-configuration.json",
+      "icon": {
+        "dark": "./media/bazel-logo.png",
+        "light": "./media/bazel-logo.png"
+      }
     }],
     "grammars": [{
       "language": "starlark",
