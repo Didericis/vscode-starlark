@@ -13,3 +13,7 @@ This project started like [this lightbulb changing scene](https://www.youtube.co
 - Saw that there was a "language support" option in the yeoman code generator
 - Looked up what that was, read up on [the language server extension guide](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
 - Decided why not try and make one in an hour/see what happens
+
+## 2024-06-22 11:12
+
+Found a starlark grammar in [this repo](https://github.com/bazelbuild/vscode-bazel). That should allow me to do syntax highlighting. Specific location of the grammar was found [here](https://github.com/bazelbuild/vscode-bazel/blob/master/syntaxes/starlark.tmLanguage.json).
