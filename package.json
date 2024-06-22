@@ -2,7 +2,7 @@
   "name": "starlark",
   "displayName": "Starlark",
   "description": "Syntax highlighting for Starlark",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },
