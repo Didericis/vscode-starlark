@@ -16,6 +16,7 @@
   "author": {
     "name": "Didericis"
   },
+  "license": "Apache-2.0",
   "icon": "media/bazel-logo.png",
   "contributes": {
     "languages": [{
