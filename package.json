@@ -1,0 +1,25 @@
+{
+  "name": "starlark",
+  "displayName": "starlark",
+  "description": "Language support for starlark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "starlark",
+      "aliases": ["starlark", "starlark"],
+      "extensions": [".star"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "starlark",
+      "scopeName": "source.starlark",
+      "path": "./syntaxes/starlark.tmLanguage.json"
+    }]
+  }
+}
