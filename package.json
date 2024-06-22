@@ -9,6 +9,7 @@
   "categories": [
     "Programming Languages"
   ],
+  "publisher": "Didericis",
   "repository": {
     "type": "git",
     "url": "https://github.com/Didericis/vscode-starlark.git"
